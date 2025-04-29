@@ -51,6 +51,7 @@ def display_validation_results(input_data, model_class):
         validated_obj = model_class(**input_data)
         # -----------------------------
         st.success("✅ Validation Successful!")
+        st.balloons()
         st.write("Validated Pydantic Object:")
         st.json(validated_obj.model_dump())
 
