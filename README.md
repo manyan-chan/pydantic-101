@@ -1,5 +1,7 @@
 # Pydantic 101 - Streamlit Showcase 🚀
 
+![screenshot](screenshot.png)
+
 ## Overview
 
 This project is an interactive Streamlit application designed to demonstrate the fundamental features and common use cases of the Pydantic library. It provides hands-on examples for understanding data validation, type coercion, model definition, error handling, and more within a web interface.
